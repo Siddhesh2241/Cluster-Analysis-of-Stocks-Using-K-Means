@@ -57,4 +57,16 @@ pip install pandas numpy matplotlib scikit-learn
 
 **4)Save and Analyze Results** :
 
-After running the notebook, the results will be saved as CSV files for each trend.
+- After running the notebook, the results will be saved as CSV files for each trend.
+
+## Output
+
+**CSV Files** : Clustered stock data saved as separate CSV files based on trends:
+
+- Bullish_stocks_<date>.csv
+- Moderate_Bullish_stocks_<date>.csv
+- Moderate_Bearish_stocks_<date>.csv
+- Bearish_stocks_<date>.csv
+- Plots: Visualizations of clusters using scatter plots to understand stock behavior.
+
+
