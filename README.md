@@ -69,4 +69,10 @@ pip install pandas numpy matplotlib scikit-learn
 - Bearish_stocks_<date>.csv
 - Plots: Visualizations of clusters using scatter plots to understand stock behavior.
 
+## Conclusion
+This project provides valuable insights for investors:
 
+- **Cluster 2 (Bullish)** : High returns, manageable risk; ideal for growth investments.
+- **Cluster 1 (Moderate Bullish)** : Low risk, stable returns; suitable for conservative investors.
+- **Cluster 0 (Bearish)** : High-risk stocks with significant negative returns; should be avoided.
+- **Cluster 3 (Moderate Bearish)** : Underperforming stocks; invest cautiously with potential recovery opportunities.
